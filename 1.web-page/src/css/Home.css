@@ -1,0 +1,151 @@
+
+
+.header {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 50px;
+    letter-spacing: 3px;
+}
+
+.header1 {
+    text-align: center;
+    margin-left: 170px;
+    width: 1200px;
+    line-height: 50px;
+    color: #393838;
+    font-weight: 300;
+    font-size: 25px;
+
+}
+
+.image-div {
+    margin-left: 130px;
+    margin-top: 100px;
+}
+
+.images {
+    width: 270px;
+    margin-left: 19px;
+    border: 1px solid #000;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.images:hover {
+    background-color: #000;
+    padding: 10px;
+}
+
+.icons-div {
+    text-align: center;
+    margin-top: 100px;
+    display: flex;
+    margin-left: 500px;
+}
+
+.icons {
+    font-size: 30px;
+    border: 1px solid;
+    padding: 5px 20px;
+    margin-left: 30px;
+}
+
+.icons:hover {
+    background-color: #000;
+    color: #fff;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+
+.footer {
+    margin-top: 50px;
+    margin-left: 110px;
+    width: 1300px;
+    height: 380px;
+    background-color: #000;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer-text {
+    color: whitesmoke;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 200;
+    margin-top: 50px;
+}
+.paragraf{
+    margin-left: 20px;
+    width: 350px;
+}
+.resp-h1{
+    margin-left: 100px;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+
+.quick {
+    display: flex;
+    flex-direction: column;
+   margin-top: 30px;
+}
+
+
+.quick-a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 18px;
+    font-weight: 200;
+    margin-top: -5px;
+
+}
+
+.fa:hover {
+    color: #c1bebe;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.end-a {
+    margin-left: 20px;
+    color: #000;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.end-a:hover {
+    text-decoration: underline;
+
+}
+
+.arrow:hover {
+    font-size: 20px;
+}
+
+.btn {
+    padding: 15px 20px;
+    background-color: #fff;
+    color: #000000c3;
+    font-size: 17px;
+    margin-left: 600px;
+    margin-top: 50px;
+    border: 1px solid;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+.input {
+    padding: 15px;
+    outline: none;
+}
+.endd{
+    display: flex;
+}
+.endd1{
+    margin-left: 400px;
+    margin-top: 30px;
+}

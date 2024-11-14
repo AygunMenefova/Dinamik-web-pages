@@ -1,0 +1,284 @@
+@media(max-width:650px) {
+    .navbar{
+        display: none;
+    }
+    .dasboard{
+        margin-left: 250px;
+        margin-top: -100px;
+    }
+    .linkk {
+      margin-left: -20px;
+      padding-left: 30px;
+      text-decoration: none;
+      color: black;
+    }
+    #basic-menu{
+        margin-left: -100px;
+    }
+    .image-logo {
+        width: 150px;
+    }
+    .mountain1{
+        margin-top: 100px;
+    }
+
+    .header {
+        margin-left: 30px;
+    }
+
+    .header1 {
+        margin-left: 30px;
+    }
+
+    .icons-div {
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 10px;
+        margin-left: 15px;
+
+    }
+
+    .icons {
+        margin-top: 10px;
+        font-size: 15px;
+    }
+
+    .image-div {
+        margin-left: -5px;
+
+    }
+
+    .btn {
+        margin-left: 50px;
+    }
+
+    .logo-home {
+        width: 200px;
+    }
+
+    .footer {
+        margin-left: 30px;
+        padding-bottom: 900px;
+    }
+
+    .footer-text {
+        width: 90%;
+        margin-left: 10px;
+    }
+
+    .logo-footer {
+        flex-direction: column;
+    }
+
+    .paragraf {
+        margin-left: 20px;
+        width: 90%;
+    }
+
+    .quick {
+        margin-left: 20px;
+    }
+
+    .resp-h {
+        margin-left: 20px;
+    }
+
+    .resp-h1 {
+        margin-left: 30px;
+    }
+
+    .endd {
+        margin-left: -100px;
+    }
+
+    .endd1 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .img-box {
+        width: 200px;
+        margin-left: 50px;
+    }
+
+    .head {
+        width: 200px;
+        margin-left: 50px;
+    }
+
+    .linee {
+        width: 200px;
+        margin-left: 50px;
+    }
+
+    .mountain1 {
+        margin-left: 100px;
+    }
+
+    .all {
+        width: 230px;
+        margin-left: -70px;
+    }
+
+    .post {
+        width: 230px;
+        margin-left: -30px;
+    }
+
+    .imagge {
+        width: 240px;
+    }
+
+    .calendar {
+        margin-left: -40px;
+    }
+
+    .search {
+        margin-left: -70px;
+        width: 190px;
+    }
+
+    .inputt {
+        margin-left: -30px;
+        padding: 20px;
+        width: 130px;
+    }
+
+    .contact-icon {
+        margin-top: 100px;
+        display: flex;
+        flex-direction: column;
+        font-size: 10px;
+        margin-left: -30px;
+    }
+
+    .contact-div {
+        width: 150px;
+        margin-left: -310px;
+        margin-top: 650px;
+
+
+    }
+
+    .image-ten {
+        width: 250px;
+        margin-top: 100px;
+    }
+
+    .about-p {
+        margin-top: 50px;
+        font-size: 15px;
+        margin-left: -80px;
+        width: 120%;
+    }
+
+    .about-img {
+        margin-left: -90px;
+        width: 110%;
+    }
+
+    .empty {
+        margin-left: -120px;
+    }
+
+    .empty2 {
+        margin-left: 35px;
+    }
+
+    .text-all {
+        margin-left: -20px;
+    }
+
+    .card {
+        width: 180px;
+        margin-left: -60px;
+        margin-top: 50px;
+    }
+
+    .resp-a {
+        margin-left: -30px;
+    }
+
+    .about-box {
+        margin-top: 90px;
+        right: 150px;
+    }
+
+    .about-icon {
+        margin-top: 100px;
+        right: 165px;
+    }
+
+    .about-box2 {
+        margin-top: 390px;
+        right: 150px;
+    }
+
+    .about-icon2 {
+        margin-top: 400px;
+        right: 165px;
+    }
+
+    .about-box3 {
+        margin-top: 690px;
+        right: 155px;
+
+    }
+
+    .about-icon3 {
+        margin-top: 700px;
+        right: 170px;
+
+    }
+
+    .about-box4 {
+        margin-top: 990px;
+        right: 150px;
+
+    }
+
+    .about-icon4 {
+        margin-top: 1000px;
+        right: 165px;
+
+    }
+
+    .about-box5 {
+        margin-top: 1290px;
+        right: 155px;
+
+    }
+
+    .about-icon5 {
+        margin-top: 1300px;
+        right: 170px;
+
+    }
+
+    .about-hr {
+        right: 180px;
+        padding-bottom: 730px;
+
+    }
+
+    .about-h1 {
+        right: 80px;
+    }
+
+    .about-h1-2 {
+        margin-top: 410px;
+        right: 230px;
+    }
+
+    .about-h1-3 {
+        margin-top: 710px;
+        right: 230px;
+    }
+
+    .about-h1-4 {
+        margin-top: 1010px;
+        right: 90px;
+    }
+
+
+}

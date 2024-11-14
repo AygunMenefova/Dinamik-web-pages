@@ -1,0 +1,30 @@
+.navbar {
+    margin-left: 600px;
+    margin-top: -50px;
+}
+
+.link {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    border: 1px solid #000;
+    padding: 10px 20px;
+    margin-left: 10px;
+}
+
+.link:hover {
+    background-color: black;
+    color: #fff;
+
+}
+
+.image-logo {
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+@media (min-width:1401px) {
+    .dasboard {
+        display: none;
+    }
+}

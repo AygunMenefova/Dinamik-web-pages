@@ -1,0 +1,45 @@
+.image-ten {
+    width: 700px;
+    margin-left: 700px;
+    margin-top: 150px;
+}
+
+.contact-div {
+    position: absolute;
+    top: -630px;
+    left: 350px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px 50px 100px 50px;
+    background-color: #000;
+}
+
+.contact-btn {
+    padding: 15px;
+    margin-top: 15px;
+    background-color: #fff;
+    cursor: pointer;
+    outline: none;
+}
+
+.contact-btn:hover {
+    border: 1px solid #fff;
+    background-color: #000;
+    color: #fff;
+}
+
+.contact-icon {
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+    margin-left: 250px;
+    margin-top: 150px;
+    width: 50px;
+    position: absolute;
+
+}
+
+.iconn {
+    margin-bottom: 30px;
+}

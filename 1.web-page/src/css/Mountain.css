@@ -1,0 +1,108 @@
+.mountain {
+    width: 1600px;
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+.mountain1 {
+    margin-top: 50px;
+    margin-left: 180px;
+    font-size: 35px;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    margin-top: 110px;
+}
+
+.head {
+    width: 300px;
+    font-size: 25px;
+    margin-left: 90px;
+    cursor: pointer;
+}
+
+.search {
+    padding: 40px 50px;
+    border: 1px solid #ddd;
+    width: 260px;
+}
+
+.inputt {
+    padding: 20px;
+    margin-left: -20px;
+    outline: none;
+}
+
+.btnn {
+    margin-left: 10px;
+    padding: 0 20px;
+    background-color: #000;
+    color: white;
+    cursor: pointer;
+}
+
+.btnn:hover {
+    background-color: #fff;
+    color: #000;
+    border: 1px solid;
+}
+
+.linee {
+    width: 800px;
+    margin-left: 100px;
+    border-top: 1px solid #ddd;
+}
+
+.img-box {
+    width: 350px;
+    margin-left: 80px;
+    margin-top: 30px;
+    border: 1px solid #000;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.img-box1 {
+    width: 350px;
+    margin-left: 80px;
+    margin-top: 30px;
+    border: 1px solid #000;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.img-box:hover {
+    background-color: #000;
+    padding: 10px;
+}
+
+.all {
+    border: 1px solid #ddd;
+    padding: 0 30px;
+    width: 300px;
+    margin-right: 220px;
+    margin-top: 50px;
+}
+
+.post {
+    background-color: #000;
+    width: 300px;
+    padding: 1px 30px 1px 30px;
+    margin-left: -30px;
+}
+
+.h1 {
+    font-size: 25px;
+    color: whitesmoke;
+    margin-left: 20px;
+
+}
+
+.image {
+    padding: 50px 0;
+    margin-left: -5px;
+
+}
